@@ -1,16 +1,23 @@
-### Hi there 👋
+<img src="https://i.ibb.co/BwVH87B/imagem-1.jpg" width="1000px" height="200px"></a>
+## Olá ! Seja bem vindo ao meu GitHub!
 
-<!--
-**CristianBMartins/CristianBMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.ibb.co/jy70YtM/myphoto.jpg" alt="Minha foto" align="right" width="" height="250" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - <p><em>Atualmente estou estudando JavaScript.</em></p>
+ - <p><em>Meu conhecimento atual é em HTML5 e CSS3.</em></p>
+ - <p><em>Estou em buscar de colocação no mercado de T.I. como Front End.</em></p>
+
+<a href="https://www.linkedin.com/in/cristian-martins-43b1ab119/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu LinkedIn" align=""></a>
+<a href="https://wa.me/5513996417828"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Meu WhatsApp" align=""></a>
+
+***
+
+### Meus conhecimentos
+ - [x] <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ - [x] <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+ - [x] <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+#### Próximos conhecimentos
+ - [ ] <img src="https://img.shields.io/badge/javaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+ - [ ] <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
