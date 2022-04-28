@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/BwVH87B/imagem-1.jpg" width="1000px" height="200px"></a>
+<img src="https://i.ibb.co/2gV5K3j/capa.jpg" width="1000px" height="200px"></a>
 ## Olá ! Seja bem vindo ao meu GitHub!
 
 <img src="https://i.ibb.co/jy70YtM/myphoto.jpg" alt="Minha foto" align="right" width="" height="250" />
@@ -16,7 +16,7 @@
 ### Meus conhecimentos
  - [x] <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  - [x] <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- - [x] <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+   - [x] <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
 #### Próximos conhecimentos
  - [ ] <img src="https://img.shields.io/badge/javaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
