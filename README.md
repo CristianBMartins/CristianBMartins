@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/2gV5K3j/capa.jpg" width="1000px" height="200px"></a>
 ## Olá ! Seja bem vindo ao meu GitHub!
 
-<img src="https://i.ibb.co/jy70YtM/myphoto.jpg" alt="Minha foto" align="right" width="" height="250" />
+<img src="https://i.ibb.co/5K19TFJ/perfil.jpg" alt="Minha foto" align="right" width="" height="250" />
 
 
  - <p><em>Atualmente estou estudando JavaScript.</em></p>
